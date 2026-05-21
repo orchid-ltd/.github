@@ -14,6 +14,16 @@ A: Would we bring back the severe multi-year burnout and headache that was deali
 ## Q: Does it have to do with Capyloon-influenced decisions that plagued the project and turned it into a very unhealthy burnout-inducing project?
 A: Absolutely. A lot of the development problems and work health problems were all Capyloon's fault. They wasted a whole year of just nothingburger leaving the OS in a unfunctional state and they had abysmal contacts and were genuinely just the worst to work with. And their "suggestions" play a massive role into putting Orchid in tech debt so deep it was easier to kill multi-year projects and call it a loss. This is why we no longer take open source companies seriously and see them as a plague.
 
+If Capyloon kept their mouth shut about web and stopped doing everything in their power to convince Orchid it's the future. OrchidOS would've been alive and would've been a C++ written GUI and not a web based GUI.
+
+If health is a priority. Capyloon is a automatic block from the list of companies you should work with.
+
+## Q: Will you protect your own people in events of a drama?
+A: Not our drama, Not our problem. Stop being a baby and learn to handle your own problems. Orchid already did enough handling of your problems in the Orchid Community because you couldn't stop throwing tantrums about it like a goddamn baby. We look out for users. We don't babysit them.
+
+## What happens to all Orchid user data?
+Deleted. So if any data leak happens. Hackers get nothing of your data. That if you had a account to begin with.
+
 ## Why has there been nothing new?
 Short answer: Because The Orchid Community killed Orchid by being heartless narcissistic hypocrites!
 
@@ -29,5 +39,8 @@ Orchid is no longer in business and there will no longer be any new major open s
 
 Thanks for the 4 years of pain you all brought to Orchid in return of Orchid giving you everything for free.
 
-Best Regards,
-The one you have sabotaged.
+when Orchid said it loves users, it meant real NORMAL users. Not fatherless toxic glazing yes men. Harassment is not how you get Orchid users, people.
+
+Disappointment and shame is all we feel from the people from the Orchid community and this is mostly directed at them.
+
+R.I.P. Orchid 2021-2025
